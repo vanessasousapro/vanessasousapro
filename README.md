@@ -16,7 +16,7 @@ Em transição de carreira, futura desenvolvedora FrontEnd👾
 [![GitHub](https://img.shields.io/badge/GitHub-923DFF?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanessasousapro&theme=transparent&bg_color=923DFF&border_color=#000&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF&hide_title=true&hide=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vanessasousapro&theme=transparent&bg_color=923DFF&border_color=000&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF&hide_title=true&hide=stars)
 
 ### Meu Portifólio
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessasousapro&repo=portifolio-VSP&bg_color=923DFF&border_color=white&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/vanessasousapro/portifolio-VSP)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessasousapro&repo=portifolio-VSP&bg_color=923DFF&border_color=000&show_icons=true&icon_color=FFF&title_color=FFF&text_color=FFF)](https://github.com/vanessasousapro/portifolio-VSP)
