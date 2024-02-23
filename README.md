@@ -1,6 +1,6 @@
 # Vanessa Sousa
 
-Em transição de carreira, futura desenvolvedora FrontEnd👾
+Em transição de carreira, futura desenvolvedora FullStack
 
 ### Conecte-se comigo
 
