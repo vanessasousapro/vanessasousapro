@@ -1,6 +1,6 @@
 # Vanessa Sousa
 
-Em transição de carreira, futura desenvolvedora FullStack
+Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Fullstack Em Formação 🎓
 
 ### Conecte-se comigo
 
