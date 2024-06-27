@@ -23,4 +23,4 @@ Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora Fullstack E
 
 ### Meu Portifólio
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessasousapro&repo=portifolio-VSP&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/SEUUSERNAME/SEUREPOSITORIO)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vanessasousapro&repo=vanessasousapro.github.io&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/vanessasousapro/vanessasousapro.github.io)
