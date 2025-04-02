@@ -82,7 +82,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/vanessasousapro/vanessasousapro/output/snake.svg" alt="Snake animation" />
-
-###
